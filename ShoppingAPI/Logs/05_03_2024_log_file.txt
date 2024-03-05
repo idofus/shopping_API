@@ -1,0 +1,6 @@
+API Name : api/Login/GetUserDetails | req : none 
+05-03-2024 18:34:07
+API Name : api/Login/GetUserDetails | Message : Success
+05-03-2024 18:34:18
+API Name : api/Login/GetUserDetails | Response Data : System.Collections.Generic.List`1[<>f__AnonymousType2`4[System.Int64,System.String,System.String,System.String]]
+05-03-2024 18:34:18
